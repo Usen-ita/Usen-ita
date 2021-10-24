@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Usen-ita
-- 👀 I’m interested in UX/UI Design
+- 👀 I’m interested in ...
 - 🌱 I’m currently learning HTML, CSS, Javascript, Java spring boot, MySQL
 - 📫 How to reach me uia.business@yahoo.com
 

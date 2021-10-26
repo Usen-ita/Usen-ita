@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Usen
-- 👀 I’m interested in UX/UI design
-- 🌱 I’m currently learning HTML, CSS, Javascript, Java spring boot, MySQL
 - 📫 How to reach me uia.business@yahoo.com
 
 <!---

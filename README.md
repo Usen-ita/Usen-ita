@@ -1,6 +1,7 @@
 
 
 - 👋 Hi, I’m Usen
+- 🔭 I’m currently in my second year of university. Im skilled in UI/UX design as well as multiple porgramming languages
 - 🌱 I’m currently learning three.js, solidity and blockchain 
 - 📫 How to reach me uia.business@yahoo.com
 

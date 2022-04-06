@@ -1,6 +1,7 @@
 
 
 - 👋 Hi, I’m Usen
+- 🌱 I’m currently learning three.js, solidity and blockchain 
 - 📫 How to reach me uia.business@yahoo.com
 
 <!---

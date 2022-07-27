@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Usen
 - 🔭 I’m currently in my second year of university. Im skilled in UI/UX design as well as web development 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Three.JS and Python
 - 📫 How to reach me uia.business@yahoo.com
 
 <!---
